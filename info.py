@@ -51,9 +51,9 @@ FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-100
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://free:free@free.skktzb2.mongodb.net/?retryWrites=true&w=majority&appName=free")
-DATABASE_NAME = environ.get('DATABASE_NAME', "free")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'free')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://anyname:anyname@anyname.hds31.mongodb.net/?retryWrites=true&w=majority&appName=anyname")
+DATABASE_NAME = environ.get('DATABASE_NAME', "anyname")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'anyname')
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) # Set Ture Or False
@@ -63,7 +63,7 @@ REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '20')) # number of referal coun
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1month')
 PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/6fb591ce608f61407aa81.jpg')
 PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 70ʀs - 1 ᴡᴇᴇᴋ\n- 150ʀs - 1 ᴍᴏɴᴛʜs\n- 200ʀs - 3 ᴍᴏɴᴛʜs\n- 270ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>devpareek001@axl</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
-OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Jiocinemaofflicial') # owner username without @
+OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Morning006') # owner username without @
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
 CLONE_MODE = bool(environ.get('CLONE_MODE', False)) # Set True or False
@@ -71,13 +71,13 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+2hgaKXlzZDE5ZGI1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+XwzVvi5fd01iYTI1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+TGqBUP3rvd0xN2M1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+4Kn0EtVom08zYjc9')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/18')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+KkiJxjEDnlU5MjJl') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+AW7ZqFaHM5xjYWU9') # Support Chat Link Without https:// or @
 
 # True Or False
-AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', False ))
+AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True ))
 PM_SEARCH = bool(environ.get('PM_SEARCH', False ))
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
@@ -96,7 +96,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', True))
+VERIFY = bool(environ.get('VERIFY', False))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'publicearn.com')
 VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '32e9a22f6dee68573f523e0aaf080bbf20d99672')
