@@ -185,7 +185,7 @@ Nᴀᴍᴇ - {}"""
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ғᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀsᴇ''ᴅʀᴏᴘ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 
-👉  @Dr_doo_mbot\n\n\n#ʀᴇǫᴜᴇsᴛ\nɴᴀᴍᴇ - ᴀɴɪᴍᴀʟ\nʏᴇᴀʀ - 𝟸𝟶𝟸𝟹\nʟᴀɴɢᴜᴀɢᴇ - ʜɪɴᴅɪ"""
+👉  @L_uciBot\n\n\n#ʀᴇǫᴜᴇsᴛ\nɴᴀᴍᴇ - ᴀɴɪᴍᴀʟ\nʏᴇᴀʀ - 𝟸𝟶𝟸𝟹\nʟᴀɴɢᴜᴀɢᴇ - ʜɪɴᴅɪ"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
@@ -230,9 +230,9 @@ Any Doubts or Not Connecting? Contact Me"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href="https://t.me/+XwzVvi5fd01iYTI1">{file_name}</a>
+<b><a href="https://t.me/+4Kn0EtVom08zYjc9">{file_name}</a>
 
-▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/Filmy_Duniya_Backcup'>Filmy Duniya Backup</a></b>"""
+▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/moviebakcup'>moviebakcup</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -481,7 +481,7 @@ Any Doubts or Not Connecting? Contact Me"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Jiocinemaofflicial'>Jiocinemaofflicial</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Morning006'>Morning006</a>
 """
 
     RENAME_TXT = """
