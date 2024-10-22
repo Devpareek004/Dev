@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7093508362:AAH6T3jaj61CEZ6Kuj2on1cMl1JSR3m
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://graph.org/file/163f3cb29e84284ca2d22-47b4b13a6a734b5c12.jpg https://graph.org/file/a2ec388495b2499f65cad-85a9e429851b6519d6.jpg https://graph.org/file/e6ab0145ff7eca8b9c1f3-7937c594454f267c9c.jpg https://graph.org/file/b4f34df39b7043ffd59c5-7743431d0fb850ecef.jpg https://graph.org/file/087392b34bb65e3f77a01-8a802de088cc51b2f0.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/1227f8a314530d91e5a9b-289b2534339edb24fb.jpg https://graph.org/file/764ce9eef21ee2a31c426-4f3f11c987af3e04d4.jpg https://graph.org/file/5597335f7dc05be9f90e6-ee953217244a2a9049.jpg https://graph.org/file/ccbfdebf1e2a151a69cd6-d789905aca0c5e3715.jpg https://graph.org/file/58cfe114fbb7d77cfcbe8-6e4ff50f2aa69022e1.jpg https://graph.org/file/5939025a779ace9530a04-a3e06357d75c531770.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/howtoopnelink001/18")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
